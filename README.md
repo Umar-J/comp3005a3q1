@@ -10,8 +10,12 @@ This is a simple CRUD (Create, Read, Update, Delete) application for managing st
 
 ## Setup
 
-1. Clone the repository:
-git clone https://github.com/Umar-J/comp3005a3q1.git
-2. open project in intellij
-3. open Main.java
-4. run program
+1. Clone the repository:  
+
+`git clone https://github.com/Umar-J/comp3005a3q1.git`
+
+2. Open project in intellij
+
+3. Open Main.java
+  
+4. Run program
