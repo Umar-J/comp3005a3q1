@@ -19,3 +19,6 @@ This is a simple CRUD (Create, Read, Update, Delete) application for managing st
 3. Open Main.java
   
 4. Run program
+
+### video:
+<https://youtu.be/mMEVjJuf_B0>
